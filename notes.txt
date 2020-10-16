@@ -67,3 +67,9 @@ yarn add @types/yup -D
 // Permitir aplicação ser acessada de diferentes dominios
 yarn add cors
 yarn add @types/cors -D
+
+/** Workshop 3 - A escolha da stack **/
+https://www.youtube.com/watch?v=eVTmT1g9bmg
+
+// Conectar com backend
+yarn add axios
