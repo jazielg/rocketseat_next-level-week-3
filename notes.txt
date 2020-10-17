@@ -53,7 +53,7 @@ yarn typeorm migration:create -n csreate_images
 // Visualizar dados do sqlite
 https://www.beekeeperstudio.io
 
-// Bibliotecaa para upload de images
+// Biblioteca para upload de images
 yarn add multer
 yarn add @types/multer -D
 
@@ -73,3 +73,29 @@ https://www.youtube.com/watch?v=eVTmT1g9bmg
 
 // Conectar com backend
 yarn add axios
+
+
+/** Workshop 4 - Até 2 anos em 2 meses **/
+https://www.youtube.com/watch?v=CJI4ltmHLeo
+
+// Recursos que o Expo não suporta
+https://expo.canny.io
+
+// Instalar o expo globalmente
+yarn global add expo-cli
+
+// Mapa no expo
+expo install react-native-maps
+
+// Adicionar fontes
+https://github.com/expo/google-fonts
+
+expo install @expo-google-fonts/nunito expo-font
+
+// Adicionar navegação
+https://reactnavigation.org/docs/getting-started
+
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/stack
