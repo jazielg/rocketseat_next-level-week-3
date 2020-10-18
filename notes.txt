@@ -99,3 +99,12 @@ yarn add @react-navigation/native
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 
 yarn add @react-navigation/stack
+
+
+/** Workshop 5 - **/
+https://www.youtube.com/watch?v=esluWJwQb8I
+
+yarn add axios
+
+// Lidando com importação de imagens
+expo install expo-image-picker
